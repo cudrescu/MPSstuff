@@ -1,7 +1,10 @@
-Build: gcc taci.c -o verify
+build: 
+	gcc taci.c -o verify
 
 
-Run: ./verify
+run: 
+	./verify
 
 
-Clean: rm taci
+clean: 
+	rm taci
