@@ -1,0 +1,9 @@
+#include<stdio.h>
+
+int verify(char* ip) {
+	
+}
+
+void main() {
+	
+}
