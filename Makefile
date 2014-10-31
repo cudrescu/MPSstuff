@@ -7,4 +7,4 @@ run:
 
 
 clean: 
-	rm taci
+	rm verify
